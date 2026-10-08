@@ -1,0 +1,46 @@
+[
+    {
+        "nama_barang": "Laptop",
+        "jumlah": 50
+    },
+    {
+        "nama_barang": "Mouse",
+        "jumlah": 100
+    },
+    {
+        "nama_barang": "Keyboard",
+        "jumlah": 75
+    },
+    {
+        "nama_barang": "Monitor",
+        "jumlah": 30
+    },
+    {
+        "nama_barang": "Printer",
+        "jumlah": 40
+    },
+    {
+        "nama_barang": "Scanner",
+        "jumlah": 20
+    },
+    {
+        "nama_barang": "Speaker",
+        "jumlah": 60
+    },
+    {
+        "nama_barang": "Headset",
+        "jumlah": 80
+    },
+    {
+        "nama_barang": "Webcam",
+        "jumlah": 25
+    },
+    {
+        "nama_barang": "External Hard Drive",
+        "jumlah": 15
+    },
+    {
+        "nama_barang": "Powerbank",
+        "jumlah": 17
+    }
+]
